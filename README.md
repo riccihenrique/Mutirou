@@ -11,3 +11,18 @@ Antes do Mutirou, esses eventos eram realiados utilizando papel. Além de não s
 ### Como o Mutirou ajuda esses eventos?
 
 O Mutirou proporciona um gerenciamento completo dos eventos de saúde, incluindo a fase de planejamento, criação, comunicação com os pacientes e voluntários, execução do  evento e geração de relatórios. Com o mutirou, é possível executar os eventos de maneira muito mais rápida e gerenciar os dados coletados de uma forma muito mais eficiente, garantindo que os relatórios já estejam prontos ao término de cada evento.
+
+### Como é o Mutirou?
+Abaixo seguem algumas imagens do Mutirou e de suas funcionalidades.
+
+- Tela inicial
+![alt text](https://github.com/riccihenrique/Mutirou/blob/master/Mutirou/imgs/login.png)
+<br/>
+- Criacao de Eventos 
+![alt text](https://github.com/riccihenrique/Mutirou/blob/master/Mutirou/imgs/event.png)
+<br/>
+- Relatório
+![alt text](https://github.com/riccihenrique/Mutirou/blob/master/Mutirou/imgs/rel.png)
+<br/>
+- Comunicação
+![alt text](https://github.com/riccihenrique/Mutirou/blob/master/Mutirou/imgs/msg.png)
