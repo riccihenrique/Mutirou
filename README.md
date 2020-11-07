@@ -17,12 +17,12 @@ Abaixo seguem algumas imagens do Mutirou e de suas funcionalidades.
 
 - Tela inicial
 ![alt text](https://github.com/riccihenrique/Mutirou/blob/main/imgs/dash.PNG)
-<br/>
+<br>
 - Criacao de Eventos 
 ![alt text](https://github.com/riccihenrique/Mutirou/blob/main/imgs/event.png)
-<br/>
+<br>
 - Relatório
 ![alt text](https://github.com/riccihenrique/Mutirou/blob/main/imgs/rel.png)
-<br/>
+<br>
 - Comunicação
 ![alt text](https://github.com/riccihenrique/Mutirou/blob/main/imgs/msg.png)
