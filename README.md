@@ -19,7 +19,7 @@ Abaixo seguem algumas imagens do Mutirou e de suas funcionalidades.
 ![alt text](https://github.com/riccihenrique/Mutirou/blob/main/imgs/dash.PNG)
 <br>
 - Criacao de Eventos 
-![alt text](https://github.com/riccihenrique/Mutirou/blob/main/imgs/event.PNG)
+![alt text](https://github.com/riccihenrique/Mutirou/blob/main/imgs/events.PNG)
 <br>
 - Relatório
 ![alt text](https://github.com/riccihenrique/Mutirou/blob/main/imgs/rel.PNG)
