@@ -16,13 +16,13 @@ O Mutirou proporciona um gerenciamento completo dos eventos de saúde, incluindo
 Abaixo seguem algumas imagens do Mutirou e de suas funcionalidades.
 
 - Tela inicial
-![alt text](https://github.com/riccihenrique/Mutirou/blob/master/Mutirou/imgs/dash.png)
+![alt text](https://github.com/riccihenrique/Mutirou/blob/main/imgs/dash.PNG)
 <br/>
 - Criacao de Eventos 
-![alt text](https://github.com/riccihenrique/Mutirou/blob/master/Mutirou/imgs/event.png)
+![alt text](https://github.com/riccihenrique/Mutirou/blob/main/imgs/event.png)
 <br/>
 - Relatório
-![alt text](https://github.com/riccihenrique/Mutirou/blob/master/Mutirou/imgs/rel.png)
+![alt text](https://github.com/riccihenrique/Mutirou/blob/main/imgs/rel.png)
 <br/>
 - Comunicação
-![alt text](https://github.com/riccihenrique/Mutirou/blob/master/Mutirou/imgs/msg.png)
+![alt text](https://github.com/riccihenrique/Mutirou/blob/main/imgs/msg.png)
