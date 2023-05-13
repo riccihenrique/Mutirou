@@ -1,0 +1,5 @@
+result: {
+    stats: boolean,
+    err: string
+}, 
+data: json // Dados, caso tenha

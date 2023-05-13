@@ -1,0 +1,2 @@
+Pessoa envolve paciente e voluntario. Medio e adm são herdados por terem informações diferentes.
+um evento é criado por um administrador, composto por fases. As fases são agregadas com peguntas, que são compostas por um conjunto de respostas. Fase/Paciente envolva cada fase que um paciente passa, contendo o medico responsavel, qnd for o caso, o voluntario responsavel e o paciente, alem de uma agredação das respostas, para as perguntas fas fases.

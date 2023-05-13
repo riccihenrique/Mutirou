@@ -1,0 +1,20 @@
+- Cadastrar Eventos
+- Cadastrar Perguntas
+- Cadastrar Tipos De Resposta
+- Cadastrar Fases do Evento
+- Cadastrar Voluntarios
+- Cadastrar Pacientes
+- Perguntas Habilitam Novas Fases
+- Usar Perguntas e fases de outro evento
+
+
+- Comparar Resultados com eventos semelhantes
+- Exibir crescimento de alguma pergunta (estatistica em relação a alguma perguntar)
+- Gerar Exel com informações
+- Gerar cartilha final
+
+
+Obs:
+
+* Fases podem ser puladas
+* Campos não precisam ser obrigatorios
